@@ -1,0 +1,10 @@
+#box{
+    display: flex;
+    justify-content: space-between;
+}
+.c_box{
+    height: 200px;
+    width: 190px;
+    border: 1px solid blueviolet;
+    background-color: #8ceec8;
+}
